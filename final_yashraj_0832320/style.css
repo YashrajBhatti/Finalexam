@@ -1,0 +1,6 @@
+#name, #email, #comments, #submit{
+    margin: auto;
+    justify-content: center !important;
+    width: 50% !important; 
+    text-align: center;
+}
